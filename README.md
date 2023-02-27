@@ -1,5 +1,5 @@
 # NGS_Study
-NGS 공부하고 자료 정리해서 올리기
+NGS 공부하고 자료 정리해서 올리기 \n
 KOBIC: https://m.ibric.org/miniboard/read.php?Board=bio_schedule1&id=265236
 LAIDD: https://www.laidd.org
 KGOL: https://www.kola.kr/main/index.jsp
